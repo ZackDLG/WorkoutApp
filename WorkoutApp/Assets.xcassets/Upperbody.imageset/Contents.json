@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pngtree-muscular-man-weightlifting-sports-and-fitness-abdominal-muscle-healthy-lifestyle-photo-image_13980648.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
